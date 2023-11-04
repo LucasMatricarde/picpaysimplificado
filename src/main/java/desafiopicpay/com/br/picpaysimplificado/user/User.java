@@ -2,8 +2,6 @@ package desafiopicpay.com.br.picpaysimplificado.user;
 
 import java.math.BigDecimal;
 
-import javax.print.DocFlavor.STRING;
-
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;
